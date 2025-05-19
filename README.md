@@ -1,7 +1,6 @@
 # 📚✨ Seu Guia Literário Pessoal com IA Gemini ✨📚
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DO_SEU_NOTEBOOK_AQUI)
-*(Substitua `URL_DO_SEU_NOTEBOOK_AQUI` pelo link direto para seu notebook no Colab)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/avrilstihler/Recomendacao-de-Livros-com-IA/blob/main/sistema_recomendacao_livros_gemini.ipynb)
 
 Cansado de não saber o que ler em seguida? Quer descobrir se aquele livro famoso é realmente para você? Este projeto utiliza o poder do Google Gemini e do Google Agent Development Kit (ADK) para criar um **Sistema de Descoberta e Recomendação Literária** inteligente e interativo!
 
