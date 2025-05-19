@@ -76,4 +76,11 @@ O sistema é orquestrado por três agentes principais, cada um com uma missão �
 
 ---
 
+## 📄 Licença
+Este projeto está licenciado sob a licença MIT.
+
+Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
+
+---
+
 Prepare-se para encontrar sua próxima leitura favorita! Este sistema é uma demonstração de como a IA pode ser uma companheira incrível na exploração do vasto universo dos livros. Experimente, adapte e boa leitura! 🌟
